@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrrsss
 - 👀 I’m interested in design, art, music, human connections
-- 🌱 I’m currently learning a lot about myself, ADHD and sign language
+- 🌱 I’m currently learning a lot about myself
 - 💞️ I’m looking to collaborate on meaningful projects
 - 📫 How to reach me: [bento.me/chrs](https://bento.me/chrs)
 
