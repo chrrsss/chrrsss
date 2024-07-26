@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @chrrsss
-- 👀 I’m interested in design, art, music, human connections
-- 🌱 I’m currently learning a lot about myself
-- 💞️ I’m looking to collaborate on meaningful projects
-- 📫 How to reach me: [bento.me/chrs](https://bento.me/chrs)
+- 👋 Hi, I’m [Chris](https://bento.me/chrs)
 
 <!---
 chrrsss/chrrsss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
