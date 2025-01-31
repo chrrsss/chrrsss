@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Chris](https://bento.me/chrs)
+- 👋 Hi, I’m Chris
 
 <!---
 chrrsss/chrrsss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
